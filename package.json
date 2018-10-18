@@ -1,0 +1,11 @@
+{
+  "name": "emma.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/sufudong86/emma.github.io.git",
+  "author": "fudong.su <fudong.su@sao.so>",
+  "license": "MIT",
+  "dependencies": {
+    "vue": "^2.5.17"
+  }
+}
